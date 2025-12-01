@@ -8,7 +8,7 @@ public class Abhiram8 {
         
         
         for(int i = 0; i < data.length; i++) {
-            if(data[i] % 2 != 0) { 
+            if(data[i] % 3 != 0) { 
                 sum = sum + data[i];
             }
         }
